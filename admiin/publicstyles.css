@@ -1,0 +1,22 @@
+.line{
+    margin-top: -20px;
+}
+h2.heading{
+    font-size: 50px;
+    font-family:sans-serif;
+    font-weight: bold;
+    color: cadetblue;
+}
+p.time{
+    color:grey;
+    font-family: inherit;
+    font-weight: 600;
+}
+.blogpost{
+    background-color:ghostwhite;
+    overflow: hidden;
+    padding: 10px;
+}
+span.btn-info{
+    float: right;
+}
